@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arvethron/ARVETHRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ARVETHRON
 
-Here are some ideas to get you started:
+### Building my own path, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Computer Engineering Student · Software Development*
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## About Me
+
+I'm a Computer Engineering student beginning my journey
+in software development.
+
+I believe in learning the fundamentals, building real
+projects, and improving a little every day.
+
+## Current Focus
+
+- Learning Python and programming fundamentals
+- Exploring software engineering
+- Practicing Git and GitHub
+- Building practical desktop applications
+
+## Interests
+
+- Software Development
+- Python
+- Computer Vision
+- Open Source
+
+## Beyond the Code
+
+I enjoy quiet nights, rainy weather, cloudy skies,
+and the atmosphere of distant places.
+
+I prefer building things that speak for themselves.
+
+<br>
+
+<div align="center">
+
+*Ancient Legacy. Future Intelligence.*
+
+</div>
