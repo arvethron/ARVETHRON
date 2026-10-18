@@ -1,50 +1,120 @@
+<!--
+  ARVETHRON — Rain / Fog / Mountains
+  Place this file in the special profile repository:
+  https://github.com/ARVETHRON/ARVETHRON
+-->
+
 <div align="center">
 
-<img width="100%" src="assets/rainy-mountains.gif" alt="Rain over dark blue mountains"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=2800&pause=900&color=9CCBEB&center=true&vCenter=true&repeat=true&width=620&height=76&lines=ARVETHRON"
+    alt="ARVETHRON"
+  />
 
-<br>
+  <br>
 
-# ARVETHRON
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=7FABC9&center=true&vCenter=true&repeat=true&width=620&height=44&lines=Lost+in+the+rain.;Building+in+silence.;Finding+clarity+in+the+fog."
+    alt="Animated introduction"
+  />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=8FBCE6&center=true&vCenter=true&width=600&height=35&lines=Lost+in+the+rain.+Building+in+silence.;Computer+Engineering+Student;Learning.+Building.+Improving." alt="Animated introduction"/>
+  <br><br>
 
-<br>
+  <samp>COMPUTER ENGINEERING · DEVELOPMENT · EXPLORATION</samp>
 
-*Somewhere between the clouds and the code.*
+  <br><br>
 
-<br>
-
----
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:07111D,50:102A43,100:07111D&height=2&section=header"
+    width="100%"
+    alt=""
+  />
 
 </div>
 
-## About Me
+<!--
+RAINY MOUNTAIN BANNER (optional):
+For a real rain/fog animation, add a GIF you have permission to use to
+this repository at assets/rainy-mountains.gif, then uncomment this block.
 
-I'm a Computer Engineering student exploring software
-development, programming, and the ideas behind technology.
+<div align="center">
+  <img src="./assets/rainy-mountains.gif"
+       width="100%"
+       alt="Rain and drifting fog over dark blue mountains">
+</div>
+-->
 
-I prefer quiet progress, meaningful projects, and learning
-how things work beneath the surface.
+## `01` — About
 
-## Currently
+```text
+A quiet mind beneath a restless sky.
+Learning, building, and exploring one step at a time.
+```
 
-- Learning programming fundamentals
-- Exploring Python and software development
-- Building projects and improving my workflow
-- Discovering new ideas in computer science
+- Exploring software development and new technologies.
+- Interested in engineering, automation, and practical projects.
+- Focused on learning through building.
 
-## Interests
+## `02` — Current Focus
 
-`Python` · `Software Engineering` · `Computer Vision` · `AI`
+```text
+> Learn continuously
+> Build meaningful projects
+> Improve through experimentation
+```
 
-<br>
+## `03` — Tech Stack
+
+<!-- Keep only technologies you actually use. -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark"
+    alt="Technology icons"
+  />
+</p>
+
+## `04` — GitHub Activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=4000&pause=1200&color=7299C4&center=true&vCenter=true&width=500&height=30&lines=The+sky+is+quiet.+The+mind+isn't.;One+line+of+code+at+a+time." alt="Animated closing quote"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ARVETHRON&show_icons=true&hide_border=true&bg_color=07111D&title_color=9CCBEB&text_color=B7C9D9&icon_color=6F9FC4&ring_color=6F9FC4"
+    width="49%"
+    alt="GitHub statistics"
+  />
 
-<br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARVETHRON&layout=compact&hide_border=true&bg_color=07111D&title_color=9CCBEB&text_color=B7C9D9"
+    width="49%"
+    alt="Most used languages"
+  />
 
-<sub>ANCIENT LEGACY · FUTURE INTELLIGENCE</sub>
+  <br>
+
+  <img
+    src="https://streak-stats.demolab.com?user=ARVETHRON&hide_border=true&background=07111D&ring=6F9FC4&fire=9CCBEB&currStreakLabel=9CCBEB&sideLabels=B7C9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71869B"
+    width="100%"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:07111D,50:102A43,100:07111D&height=2&section=footer"
+    width="100%"
+    alt=""
+  />
+
+  <br>
+
+  <i>“Somewhere between the rain and the mountains.”</i>
+
+  <br><br>
+
+  <samp>ARVETHRON · KEEP BUILDING</samp>
 
 </div>
