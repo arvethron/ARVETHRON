@@ -13,14 +13,6 @@
   <img src="https://img.shields.io/badge/Git-1b2f4b?style=for-the-badge&logo=git&logoColor=8fb8e0" alt="Git">
 </p>
 
-<!-- Keep only the tools you have really used. Add more badges from shields.io the same way. -->
-
-<img src="./assets/headers/projects.gif" alt="Projects" width="100%">
-
-<!-- Replace with your real projects. If you have none yet, delete this whole section. -->
-
-- **Project name**: short description of what it does.
-
 <img src="./assets/headers/connect.gif" alt="Connect" width="100%">
 
 - GitHub: [@arvethron](https://github.com/arvethron)
