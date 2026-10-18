@@ -1,50 +1,50 @@
 <div align="center">
 
-# ARVETHRON
-
-### Building my own path, one project at a time.
-
-*Computer Engineering Student · Software Development*
+<img width="100%" src="assets/rainy-mountains.gif" alt="Rain over dark blue mountains"/>
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ARVETHRON
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=8FBCE6&center=true&vCenter=true&width=600&height=35&lines=Lost+in+the+rain.+Building+in+silence.;Computer+Engineering+Student;Learning.+Building.+Improving." alt="Animated introduction"/>
+
+<br>
+
+*Somewhere between the clouds and the code.*
+
+<br>
+
+---
 
 </div>
 
 ## About Me
 
-I'm a Computer Engineering student beginning my journey
-in software development.
+I'm a Computer Engineering student exploring software
+development, programming, and the ideas behind technology.
 
-I believe in learning the fundamentals, building real
-projects, and improving a little every day.
+I prefer quiet progress, meaningful projects, and learning
+how things work beneath the surface.
 
-## Current Focus
+## Currently
 
-- Learning Python and programming fundamentals
-- Exploring software engineering
-- Practicing Git and GitHub
-- Building practical desktop applications
+- Learning programming fundamentals
+- Exploring Python and software development
+- Building projects and improving my workflow
+- Discovering new ideas in computer science
 
 ## Interests
 
-- Software Development
-- Python
-- Computer Vision
-- Open Source
-
-## Beyond the Code
-
-I enjoy quiet nights, rainy weather, cloudy skies,
-and the atmosphere of distant places.
-
-I prefer building things that speak for themselves.
+`Python` · `Software Engineering` · `Computer Vision` · `AI`
 
 <br>
 
 <div align="center">
 
-*Ancient Legacy. Future Intelligence.*
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=4000&pause=1200&color=7299C4&center=true&vCenter=true&width=500&height=30&lines=The+sky+is+quiet.+The+mind+isn't.;One+line+of+code+at+a+time." alt="Animated closing quote"/>
+
+<br>
+
+<sub>ANCIENT LEGACY · FUTURE INTELLIGENCE</sub>
 
 </div>
