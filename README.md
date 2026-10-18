@@ -4,19 +4,31 @@
 
 </div>
 
----
+<br>
 
-### Stack
+<img src="./assets/headers/stack.png" alt="Stack" width="100%">
 
-`Python` · `JavaScript` · `TypeScript` · `Next.js` · `PostgreSQL` · `Git`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1b2f4b?style=for-the-badge&logo=python&logoColor=8fb8e0" alt="Python">
+  <img src="https://img.shields.io/badge/Git-1b2f4b?style=for-the-badge&logo=git&logoColor=8fb8e0" alt="Git">
+</p>
 
-### Projects
+<!-- Keep only the tools you have really used. Add more badges from shields.io the same way. -->
 
-<!-- Replace with your real projects. Remove this section if you have none yet. -->
+<img src="./assets/headers/projects.png" alt="Projects" width="100%">
+
+<!-- Replace with your real projects. If you have none yet, delete this whole section. -->
+
 - **Project name**: short description of what it does.
 
-### Connect
+<img src="./assets/headers/connect.png" alt="Connect" width="100%">
 
-<!-- Replace the links with your real profiles, or delete the lines you don't use. -->
-- GitHub: [@arvethron](https://github.com/arvethron)
-- Email: you@example.com
+<!-- Replace the links with your own, or delete the lines you don't use. -->
+
+- GitHub: [@your-username](https://github.com/your-username)
+
+<br>
+
+<div align="center">
+<img src="./assets/headers/divider.png" alt="Somewhere between the clouds and the code." width="100%">
+</div>
